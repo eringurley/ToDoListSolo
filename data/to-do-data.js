@@ -1,11 +1,11 @@
 const todos = [
     {
-        task: 'homework',
-        completed: true
+        'task': 'homework',
+        'completed': true
     }, 
     {   
-        task: 'make lunch',
-        completed: false
+        'task': 'make lunch',
+        'completed': false
     },
 ];
 
