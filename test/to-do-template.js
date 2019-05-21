@@ -12,10 +12,10 @@ test('testing template function', (assert) => {
     };
 
     const expected = /*html*/ `
-        <li>
-            <ol id="tasks">
-            <h1 id="header">To Do List:</h1>
-        </li>
+    <li>
+        <ol id="tasks">
+        <h1 id="header">To Do List:</h1>
+    </li>
     `;
  
 
